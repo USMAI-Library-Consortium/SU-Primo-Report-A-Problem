@@ -32,3 +32,11 @@ prm-full-view #links a.su-report-a-problem-link {
 	display: inline;
 }
 ```
+
+#### George Washington University PowerPoint Presentation
+
+Also included in this repository are slides from a 2020 presentation by George Washington University Libraries, which is what SU based their implementation on. They cover some other techniques and use slightly different code, so some may find the information useful.
+
+#### Questions?
+
+SU's implementation was done by Chris Woodall (cmwoodall@salisbury.edu). Feel free to reach out with any questions!
