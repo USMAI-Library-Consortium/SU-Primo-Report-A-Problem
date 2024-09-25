@@ -1,0 +1,8 @@
+a.su-report-a-problem-link {
+	display: none;
+}
+
+prm-full-view #getit_link1_0 a.su-report-a-problem-link,
+prm-full-view #links a.su-report-a-problem-link {
+	display: inline;
+}
